@@ -52,7 +52,7 @@
         <mxCell id="1tLjjnZW-KdGPPc9xjbH-5" value="Наемный перс&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;онал&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1tLjjnZW-KdGPPc9xjbH-6" value="Отчет о доходах, отчет о ТО" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1tLjjnZW-KdGPPc9xjbH-6" value="Получение отчета о доходах, отчета о ТО" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="430" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1tLjjnZW-KdGPPc9xjbH-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -84,6 +84,12 @@
         </mxCell>
         <mxCell id="1tLjjnZW-KdGPPc9xjbH-13" value="Запрос на обслуживание, оплата услуг" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1tLjjnZW-KdGPPc9xjbH-14" value="Найм, оплата" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="510" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1tLjjnZW-KdGPPc9xjbH-15" value="Резюме" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
